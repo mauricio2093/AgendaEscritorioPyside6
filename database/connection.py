@@ -2,8 +2,8 @@ from mysql import connector
 
 config = {
     'user': 'root',
-    'password': '7MA20ca93BA@',
-    'host' : '127.0.0.1',
+    'password': PASWORD,
+    'host' : HOST',
     'database': 'recipes_db'
 }
 def create_connection() :
